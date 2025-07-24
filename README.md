@@ -28,6 +28,23 @@ Reading the *Good Developer Mindset* article helped reinforce these key points:
 
 ### What I Learned from the *Terminal Command Cheat Sheet*
 
+Reading the article helped me understand the key traits that shape a strong, growth-oriented developer. Here are the most important lessons I took away:
+
+1. **Embrace Continuous Learning**  
+   The tech world evolves fast. A good developer stays curious and always looks for ways to improve and learn new tools, languages, and techniques.
+
+2. **Focus on Problem Solving, Not Just Knowing Everything**  
+   You don’t need to memorize everything. What matters is the ability to break down a problem, search for answers, and figure things out under pressure.
+
+3. **Ask for Help and Collaborate**  
+   No one builds software alone. Communication and teamwork are essential. Don’t be afraid to ask for help or offer support to others.
+
+4. **Own Your Mistakes**  
+   Making mistakes is part of the process. What matters is taking responsibility, learning from them, and applying those lessons in future work.
+
+5. **Stay Curious and Explore**  
+   Good developers ask questions and dive deeper. They explore how things work, try new approaches, and go beyond the minimum.
+
 Using the terminal effectively can save time and improve my workflow. I practiced the following commands:
 
 - `pwd` – shows the current directory
